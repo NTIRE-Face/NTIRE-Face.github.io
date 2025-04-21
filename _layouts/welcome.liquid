@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<div class="welcome">
+
+  <!-- 添加横幅图片和标题 -->
+  <div class="banner-container">
+    <img src="/assets/img/cvpr2025_nashville_tn.jpg" alt="NTIRE Banner" class="full-width-banner">
+    <div class="banner-title">
+      <h1>NTIRE 2025 Real-World Face Restoration</h1> 
+    </div>
+  </div>
+
+  <article>
+    <div class="clearfix">
+      <!-- 添加可点击图片 -->
+      <div class="content-image">
+        <a href="https://codalab.lisn.upsaclay.fr/competitions/21451">
+          <img src="/assets/img/codalab-face.png" alt="Content Image">
+        </a>
+      </div>
+
+      <!-- 添加三个按钮 -->
+      <div class="button-group">
+        <a href="https://github.com/zhengchen1999/NTIRE2025_RealWorld_Face_Restoration" class="btn btn-github">GitHub</a>
+        <a href="https://codalab.lisn.upsaclay.fr/competitions/21702" class="btn btn-codalab">CodaLab</a>
+        <a href="https://cvlai.net/ntire/2025/" class="btn btn-ntire">NTIRE</a>
+      </div>
+
+      {{ content }}
+
+      <!-- 添加表格 -->
+      <div class="content-image">
+        <a>
+          <img src="/assets/img/face-table.png" alt="Content Image">
+        </a>
+      </div>
+
+
+    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
+      {% include newsletter.liquid center=true %}
+    {% endif %}
+  </article>
+</div>
