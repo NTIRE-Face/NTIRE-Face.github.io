@@ -23,5 +23,7 @@ Last but not least, **congratulations to ALLForFace** for achieving the top perf
 We sincerely appreciate your contributions and look forward to your participation again next year. Let’s continue pushing the boundaries of face restoration—together! 
 
 Warm regards,
+
 **The NTIRE 2025 Real-World Face Restoration Challenge Organizers**
+
 April 20, 2025
