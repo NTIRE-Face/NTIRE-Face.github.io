@@ -27,3 +27,19 @@ Warm regards,
 **The NTIRE 2025 Real-World Face Restoration Challenge Organizers**
 
 April 20, 2025
+
+<div class="content-image">
+  <a>
+    <img src="/assets/img/table-face.png" alt="Content Image">
+  </a>
+</div>
+
+```markdown
+@inproceedings{ntire2025face,
+  title={NTIRE 2025 Challenge on Real-World Face Restoration: Methods and Results},
+  author={Zheng Chen and Jingkai Wang and Kai Liu and Jue Gong and Lei Sun and
+	Zongwei Wu and Radu Timofte and Yulun Zhang and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  year={2025}
+}
+```
