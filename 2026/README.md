@@ -38,3 +38,4 @@ Edit `index.html`. Everything is intentionally simple.
 
 - CodaBench competition: https://www.codabench.org/competitions/13507/
 - NTIRE 2026: https://cvlai.net/ntire/2026/
+
